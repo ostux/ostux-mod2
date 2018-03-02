@@ -20,12 +20,12 @@
 
 #### Extrem (OP - overpowered) mode ON
 ##### laser sword
-    * damage = spear damage * 2.3
-    * light radius = 4.8
-    * max uses = 240
+    * damage = spear damage * 3
+    * light radius = 6.8
+    * max uses = 300
 ##### katana
-    * damage = spear damage * * 2.3
-    * max uses = 200
+    * damage = spear damage * 4
+    * max uses = 300
 #### flash suit
     * durability = 800
     * absorption = 50%
@@ -39,7 +39,7 @@
     * light radius = 3.7
     * max uses = 120
 #### katana
-    * damage = spear damage * * 1.5
+    * damage = spear damage * 1.5
     * max uses = 140
 #### flash suit
     * durability = 450
@@ -48,7 +48,7 @@
     * sanity drain = ~25/day
     * hunger = +30%
 
-##### Katana adn Laser sword
+##### Katana and Laser sword
     * OP mode on and OFF life gain: 1 / hit.
 ##### Backpack
     * compatible with the backpack and amulet slot mod
